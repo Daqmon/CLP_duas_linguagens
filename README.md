@@ -24,5 +24,5 @@ Código-fonte
 
 Estrutura de diretórios (GitHub)
 - `src/`: Contém o código-fonte (mandelbrot.c,main.py)
-- `documentation/`: Documentação do projeto (PDF).
+- `Documentação_do_projeto`: Documento em PDF da implementação.
 - `Makefile`: Script para compilar o código C e execução de caso de estudo.
